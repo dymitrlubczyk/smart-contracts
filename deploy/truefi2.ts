@@ -54,6 +54,10 @@ deploy({}, (_, config) => {
   const isMainnet = config.network === 'mainnet'
   const NETWORK = isMainnet ? 'mainnet' : 'testnet'
 
+  const trueFiPool_impl = contract(TrueFiPool)
+  const poolFactory_impl = contract(PoolFactory)
+
+  /*
   // Existing contracts
   const trustToken = isMainnet
     ? timeProxy(contract(TrustToken), () => {})
@@ -158,4 +162,5 @@ deploy({}, (_, config) => {
   runIf(poolFactory.isPool(trueFiPool).not(), () => {
     poolFactory.addLegacyPool(trueFiPool)
   })
+  */
 })

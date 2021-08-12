@@ -19,8 +19,8 @@
   },
   "ropsten": {
     "mockTrueUSD": {
-      "txHash": "0xa9213c7ff15ff08f883b6a6a8166d1fa4abecc72736909a652b7ffc9cf4e4bf5",
-      "address": "0xA81EeBb973Edc64D7fb3c8D926ab41645f937b6d"
+      "txHash": "0x3cf1aaeecf536c172c42288f7b4ac7e659210e748a0457287ebdde9d11300006",
+      "address": "0x41dEc537fe2AE6B0320637b2baaD64187D473009"
     },
     "mockTrueUSD_proxy": {
       "txHash": "0x4f7bcc685297c7a0ef947b02bf8cff8fde18a9e268208b761574479752b96dc9",
@@ -151,8 +151,8 @@
       "address": "0xaBd5bC916b6775b407196b268397e0C56db8Fc34"
     },
     "poolFactory": {
-      "txHash": "0x58cd6e5b7b80e3eab4677ab3db28300bf19b5603e3b11a22497d2ef17e0c1c81",
-      "address": "0xdC69C15455a4Dfd69b53f4290ED9B75aB6BD458E"
+      "txHash": "0xc61b4cd02943694cb4f2e4c396d53fe77bf2ad5e93e3e8755698ba215b762174",
+      "address": "0x4Fcb580c61067ca04889cb2E3945C077E64A0626"
     },
     "poolFactory_proxy": {
       "txHash": "0xc35986818f8d42782971824548d8d2d826c82dc4f0c339349d6e331d8f673d54",
@@ -199,8 +199,8 @@
       "address": "0x8f977f9336610Ea690D30F70B01822Cc76e6F97D"
     },
     "trueFiPool": {
-      "txHash": "0x2d97294e70585b5ab315b55fcb127a17f8d06354ef105fa1f457b05afebe5fe3",
-      "address": "0x30026E695B0CB6Df7Efd76A8139BF05d131a295c"
+      "txHash": "0x3d21c1d43adcf1a905b469acfbfcf9bb48ffb19579ad055f156fe707ca2f7c66",
+      "address": "0x2835AA5De7bD4FDcE8E4065aA53575017Dd98035"
     },
     "truSushiswapRewarder": {
       "txHash": "0xed3d07f33f587fa9e5fc3ad0a2d750112d73dfd361b288eb420c7fa5d0819fcd",
